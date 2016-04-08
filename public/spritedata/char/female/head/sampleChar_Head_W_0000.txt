@@ -1,0 +1,9 @@
+﻿{ minZ:667.857, maxZ:720.786, numOfPaletteRow:1,
+	paletteRows : {
+		{ 0x000000, 0x000000, 0x000000, 0x000000, 0xffffff, 0xffffff, 0xffffff, 0xffffff, 0xf8ccbd, 0xf9bd9c, 0x9e7460, 0x775a4b, 0xeea168, 0xc66a3d, 0x825f45, 0x523527 }
+	},
+
+	palettePartTypes : {
+		{ 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2 }
+	}
+}
